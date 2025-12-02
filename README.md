@@ -1,11 +1,6 @@
 # OlympiaScope
 
-OlympiaScope is an interactive Olympic analytics explorer built as a course project for **DSCI 551 – Database Systems**.
-
-The project is split into two parts:
-
-- **Backend** – a CSV–backed mini SQL engine written in pure Python and exposed via a FastAPI service.
-- **Frontend** – a Next.js app that lets users explore medals, athletes, countries and efficiency metrics through a clean UI.
+OlympiaScope is a web app for exploring Olympic medal trends, athletes, and country performance through an interactive dashboard backed by a custom CSV-based query engine. It combines a Python FastAPI backend with a modern Next.js frontend to turn raw CSV data into responsive, explorable insights.
 
 ---
 
